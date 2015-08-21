@@ -1,5 +1,7 @@
 Third Year
 ESDL
-Cummins College of Engineering for Women,Pune
+CCOEW,Pune
 Computer Engineering
-Division C,Roll No.:3910
+Karve Nagar,Kothrud
+Pune is in Maharashtra
+Maharashtra is in India
